@@ -4,7 +4,9 @@ a Software developer, Digital designer, and Tech enthusiast✨
 
 As someone who was in the Design industry, I'll always have a soft spot for design.
 <br/>
-The space between development and design is where I thrive.
+<blockquote>
+<p dir="auto">The space between development and design is where I thrive.</p>
+</blockquote>
 
 <div>
   You can find me: <a href="https://id.linkedin.com/in/thoby-za">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a>
