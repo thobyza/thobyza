@@ -8,7 +8,7 @@
 </blockquote>
 
 <p>
-  You can find me: <a href="https://id.linkedin.com/in/thoby-za">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a>
+  Find me: <a href="https://id.linkedin.com/in/thoby-za">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a>
 </p>  
 </div>
 
