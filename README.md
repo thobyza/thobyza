@@ -22,7 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 
 ### 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thobyza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thobyza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!--
 **thobyza/thobyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
