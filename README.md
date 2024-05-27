@@ -2,9 +2,9 @@
 <div>
 <p><b>a Software developer, Digital designer, and Tech enthusiast</b> ✨</p>
 
-<p>As someone who was in the Design industry, I'll always have a soft spot for design.</p>
+<p>As a former architect & designer, I'll always have a soft spot for design.</p>
 <blockquote>
-<p dir="auto">The space between development and design is where I thrive 🚀</p>
+<p dir="auto"><i>The space between development and design is where I thrive</i> 🚀</p>
 </blockquote>
 
 <p>
