@@ -2,7 +2,8 @@
 
 a Software developer, Digital designer, and Tech enthusiast✨
 
-As someone who was in the Architecture and Design industry, I'll always have a soft spot for design. 
+As someone who was in the Design industry, I'll always have a soft spot for design.
+<br/>
 The space between development and design is where I thrive.
 
 <div>
