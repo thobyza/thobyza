@@ -5,7 +5,7 @@ a Software developer, Digital designer, and Tech enthusiast✨
 As someone who was in the Design industry, I'll always have a soft spot for design.
 <br/>
 <blockquote>
-<p dir="auto">The space between development and design is where I thrive.</p>
+<p dir="auto">The space between development and design is where I thrive 🚀</p>
 </blockquote>
 
 <div>
