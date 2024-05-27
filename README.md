@@ -1,6 +1,6 @@
 # Hey, I'm Thoby!
 
-a Software developer, Digital designer, and Tech enthusiast✨
+<b>a Software developer, Digital designer, and Tech enthusiast<b> ✨
 
 As someone who was in the Design industry, I'll always have a soft spot for design.
 <br/>
