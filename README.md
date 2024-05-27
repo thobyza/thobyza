@@ -1,9 +1,8 @@
 # Hey, I'm Thoby!
 <div>
-<p><b>a Software developer, Digital designer, and Tech enthusiast<b> ✨</p>
+<p><b>a Software developer, Digital designer, and Tech enthusiast</b>b> ✨</p>
 
 <p>As someone who was in the Design industry, I'll always have a soft spot for design.</p>
-<br/>
 <blockquote>
 <p dir="auto">The space between development and design is where I thrive 🚀</p>
 </blockquote>
