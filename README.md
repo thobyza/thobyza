@@ -1,6 +1,6 @@
 # Hey, I'm Thoby!
 
-a Full stack developer, digital designer, and tech enthusiast
+a Full stack developer, digital designer, and tech enthusiast✨
 
 As someone who was in the Architecture and Design industry, I'll always have a soft spot for design. 
 The space between development and design is where I thrive.
