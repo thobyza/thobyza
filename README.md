@@ -2,7 +2,7 @@
 <div>
 <p><b>a Software developer, Digital designer, and Tech enthusiast</b> ✨</p>
 
-<p>Always seeking to expand my skillset and learn new technologies. As a former architect & designer, I'll always have a soft spot for design.</p>
+<p>Always seeking to expand my skillset and learn new technologies. <br/>As a former architect & designer, I'll always have a soft spot for design.</p>
 <blockquote>
 <p dir="auto">The space between development and design is where I thrive 🚀</p>
 </blockquote>
