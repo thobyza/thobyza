@@ -4,7 +4,7 @@
 
 <p>As a former architect & designer, I'll always have a soft spot for design.</p>
 <blockquote>
-<p dir="auto"><i>The space between development and design is where I thrive 🚀</p>
+<p dir="auto">The space between development and design is where I thrive 🚀</p>
 </blockquote>
 
 <p>
