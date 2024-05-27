@@ -1,6 +1,6 @@
 # Hey, I'm Thoby!
 
-a Full stack developer, digital designer, and tech enthusiast✨
+a Software developer, Digital designer, and Tech enthusiast✨
 
 As someone who was in the Architecture and Design industry, I'll always have a soft spot for design. 
 The space between development and design is where I thrive.
@@ -8,6 +8,7 @@ The space between development and design is where I thrive.
 <div>
   You can find me: <a href="https://id.linkedin.com/in/thoby-za">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a>
 </div>
+
 ##
 
 #### Developing with:
