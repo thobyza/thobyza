@@ -8,9 +8,9 @@
 </blockquote>
 
 <p>
-  Find me: <a href="https://id.linkedin.com/in/thoby-za">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a>
+  Find me: <a href="https://id.linkedin.com/in/thoby-za" target="_blank" rel="noopener noreferrer">LinkedIn</a>, <a href="https://thobyza.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a>
 <br/>
-  ✉️ thobya.athaya@gmail.com
+  ✉️ <a href="mailto:thobyy.athaya@gmail.com" target="_blank" rel="noopener noreferrer">thobya.athaya@gmail.com</a>
 </p>  
 </div>
 
