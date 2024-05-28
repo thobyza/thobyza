@@ -9,6 +9,8 @@
 
 <p>
   Find me: <a href="https://id.linkedin.com/in/thoby-za">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a>
+<br/>
+  ✉️ thobya.athaya@gmail.com
 </p>  
 </div>
 
