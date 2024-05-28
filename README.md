@@ -24,9 +24,10 @@
 ### 
 [![](https://visitcount.itsvg.in/api?id=thobyza&icon=3&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=thobyza&icon=3&color=6)](https://visitcount.itsvg.in)
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+</div> -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=thobyza)
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thobyza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
