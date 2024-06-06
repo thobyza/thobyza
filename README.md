@@ -25,7 +25,7 @@
 
 <!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div> -->
+</div> --> 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thobyza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
