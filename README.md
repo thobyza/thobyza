@@ -35,7 +35,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 #### Currently learning:
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) 
 
 <!-- <div align="center">
