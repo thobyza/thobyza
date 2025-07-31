@@ -6,7 +6,7 @@
 <blockquote>
 <p dir="auto">The space between development and design is where I thrive 🚀</p>
 </blockquote>
-
+ 
 <p>
   Find me: <a href="https://x.com/thoby_za">Twitter</a>, <a href="https://www.linkedin.com/in/thoby-za/">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a> 
 <br/>
