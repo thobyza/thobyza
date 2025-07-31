@@ -5,7 +5,7 @@
 <p>Always seeking to expand my skillset and learn new technologies, <br/>As a former architect & designer, I'll always have a soft spot for design.</p>
 <blockquote>
 <p dir="auto">The space between development and design is where I thrive 🚀</p>
-</blockquote>
+</blockquote> 
  
 <p>
   Find me: <a href="https://x.com/thoby_za">Twitter</a>, <a href="https://www.linkedin.com/in/thoby-za/">LinkedIn</a>, <a href="https://thobyza.vercel.app/">Website</a> 
